@@ -1,0 +1,5 @@
+/node_modules
+/wp-content/uploads
+/.env
+/wp-config.php
+*.log
